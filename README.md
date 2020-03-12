@@ -1,1 +1,1 @@
-<a target="_blank" href="https://thearenashow.com"> Site - <strong>The Arena Show</strong> </a>
+<a href="https://thearenashow.com.br" target="_blank" title="Visit the site"> Site - <strong>The Arena Show</strong> </a>
